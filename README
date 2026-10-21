@@ -1,0 +1,12 @@
+SPS
+===
+
+* This port scanner was made for me to learn more about networking.
+* This is only a small one, made because i was bored!
+* SPS is under the GPLv3 LICENSE!
+
+## Legal Disclaimer
+This tool is created for educational and authorized security testing purposes only. 
+Scanning targets without prior mutual consent is illegal. It is the end user's 
+responsibility to obey all applicable local, state, and federal laws. The developer 
+assumes no liability and is not responsible for any misuse or damage caused by this program.
